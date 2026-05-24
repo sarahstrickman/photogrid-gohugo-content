@@ -15,7 +15,7 @@ params:
 
 # Params for individual resources
 resources:
-  - src: imahe.jpg
+  - src: image.jpg
     params:
       display: true
 ---

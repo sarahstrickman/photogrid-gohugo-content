@@ -1,11 +1,11 @@
 ---
-date: 2022-02-21
+date: 2015-06-23
 description: This is a placeholder description.
 title: Dog 1
 
 # Add/Delete/Uncomment categories as necessary. 
 categories: [
-    "animals",
+    "scenery",
     "photo",
 ]
 
@@ -15,7 +15,7 @@ params:
 
 # Params for individual resources
 resources:
-  - src: image.jpg
+  - src: p-park.jpg
     params:
       display: true
 ---
